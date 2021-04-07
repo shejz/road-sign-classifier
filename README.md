@@ -2,7 +2,7 @@
 This project is to classify traffic signs images using Convolutional Neural Networks (CNN).
 
 ## **Project structure**
-$ tree --dirsfirst --filelimit 10
+
 .
 ├── examples [25 entries]
 ├── gtsrb-german-traffic-sign
