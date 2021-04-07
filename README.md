@@ -1,4 +1,4 @@
-# road-sign-classifier
+# Road Sign Classifier
 This project is to classify traffic signs images using Convolutional Neural Networks (CNN).
 
 ## **Project structure**
