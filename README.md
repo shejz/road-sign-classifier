@@ -1,5 +1,8 @@
-# Road Sign Classifier
-This project is to classify traffic signs images using Convolutional Neural Networks (CNN).
+# ROAD Sign Classification with Keras and Deep Learning
+
+Road sign classification is the process of automatically recognizing traffic signs along the road, including speed limit signs, yield signs, merge signs, etc. Being able to automatically recognize traffic signs enables us to build “smarter cars”.
+
+Self-driving cars need traffic sign recognition in order to properly parse and understand the roadway. Similarly, “driver alert” systems inside cars need to understand the roadway around them to help aid and protect drivers.
 
 ## **Project structure**
     .
@@ -35,7 +38,8 @@ This project is to classify traffic signs images using Convolutional Neural Netw
 
 
 
- 
+## **GTSRB - German Traffic Sign Recognition Dataset**
+The dataset we'll be using to train our own custom traffic sign classifier is the German Traffic Sign Recognition Benchmark (GTSRB).
 
 
 
