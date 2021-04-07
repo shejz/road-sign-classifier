@@ -31,7 +31,6 @@ I extracted the dataset into my project directory as you can see here:
     ├── cnn
     |   ├── __init__.py
     |   ├──  roadsignnet.py
-    |   |   ├── variables
     ├── train.py
     ├── signnames.csv
     ├── predict.py
