@@ -6,13 +6,16 @@ This project is to classify traffic signs images using Convolutional Neural Netw
 I extracted the dataset into my project directory as you can see here:
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    ├── examples [25 entries]
+    ├── gtsrb-german-traffic-sign                    
+    │   ├── Meta [43 entries]            
+    │   ├── Test [12631 entries]             
+    │   ├── Train [43 entries]            
+    │   ├── meta-1 [43 entries]            
+    │   └── ...                 
+    └── ...
+
+
 
  
 
