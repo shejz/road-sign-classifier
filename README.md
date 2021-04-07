@@ -3,6 +3,16 @@ This project is to classify traffic signs images using Convolutional Neural Netw
 
 ## **Project structure**
 
+ .
+    ├── ...
+    ├── docs                    # Documentation files (alternatively `doc`)
+    │   ├── TOC.md              # Table of contents
+    │   ├── faq.md              # Frequently asked questions
+    │   ├── misc.md             # Miscellaneous information
+    │   ├── usage.md            # Getting started guide
+    │   └── ...                 # etc.
+    └── ...
+
 .
 ├── examples [25 entries]
 ├── gtsrb-german-traffic-sign
@@ -30,4 +40,5 @@ This project is to classify traffic signs images using Convolutional Neural Netw
 ├── train.py
 ├── signnames.csv
 └── predict.py
-13 directories, 13 files
+└── ...
+
