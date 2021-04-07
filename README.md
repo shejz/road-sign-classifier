@@ -11,8 +11,14 @@ I extracted the dataset into my project directory as you can see here:
     │   ├── Meta [43 entries]            
     │   ├── Test [12631 entries]             
     │   ├── Train [43 entries]            
-    │   ├── meta-1 [43 entries]            
-    │   └── ...                 
+    │   ├── meta-1 [43 entries]
+    |   ├── test-1 [12631 entries]
+    |   ├── train-1 [43 entries]
+    |   ├── Meta.csv
+    |   ├── Test.csv
+    |   ├── Train.csv
+    │   └── ...
+    |    
     └── ...
 
 
