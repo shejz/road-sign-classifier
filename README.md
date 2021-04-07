@@ -36,10 +36,18 @@ Self-driving cars need traffic sign recognition in order to properly parse and u
     ├── predict.py
     └── ...
 
-
+Packages:
+- OpenCV
+- NumPy
+- scikit-learn
+- scikit-image
+- imutils
+- matplotlib
+- TensorFlow 2.0 (CPU or GPU)
 
 ## **GTSRB - German Traffic Sign Recognition Dataset**
-The dataset we'll be using to train our own custom traffic sign classifier is the German Traffic Sign Recognition Benchmark (GTSRB).
+The GTSRB dataset consists of 43 traffic sign classes and nearly 50,000 images.
+
 
 
 
