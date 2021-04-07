@@ -28,15 +28,13 @@ I extracted the dataset into my project directory as you can see here:
     |   |   ├── ├── saved_model.pb
     |   ├── plot.png
     │   └── ...
-    ├── output
-    |   ├── roadsignnet.model
-    |   |   ├── assets
+    ├── cnn
+    |   ├── __init__.py
+    |   ├──  roadsignnet.py
     |   |   ├── variables
-    |   |   |   ├── variables.data-00000-of-00002
-    |   |   |   ├── variables.data-00001-of-00002
-    |   |   |   ├── variables.index
-    |   |   ├── saved_model.pb
-    |   |── plot.png
+    ├── train.py
+    ├── signnames.csv
+    ├── predict.py
     └── ...
 
 
