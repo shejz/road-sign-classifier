@@ -1,4 +1,4 @@
-# ROAD Sign Single-Image Classification with Keras and Deep Learning
+# ROAD Sign Classifier
 
 **NOTEBOOK**:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/road-sign-classifier/blob/main/Road_Sign_Classification.ipynb)
 
