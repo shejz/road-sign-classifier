@@ -19,5 +19,6 @@ The GTSRB dataset consists of 43 traffic sign classes and nearly 50,000 images.
 I'll be using keras package to build CNN model. CNN is best for image classification purposes.
 
 The architecture of our model is:
+
 ![](https://i.postimg.cc/YSM7dQ8P/TSR-h5.png)
 
