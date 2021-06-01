@@ -22,5 +22,5 @@ I'll be using keras package to build CNN model. CNN is best for image classifica
 
 The architecture of our model is:
 
-![](https://i.postimg.cc/YSM7dQ8P/TSR-h5.png)
+![](https://github.com/shejz/road-sign-classifier/blob/main/model/TSR.h5.png)
 
