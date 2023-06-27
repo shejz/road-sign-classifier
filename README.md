@@ -1,6 +1,6 @@
 # ROAD Sign Classifier
 
-**NOTEBOOK**:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/road-sign-classifier/blob/main/Road_Sign_Classification.ipynb)
+**NOTEBOOK**:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/road-sign-classifier/blob/main/Road_Sign_Classification.ipynb)
 
 Road sign classification is the process of automatically recognizing traffic signs along the road, including speed limit signs, yield signs, merge signs, etc. Being able to automatically recognize traffic signs enables us to build “smarter cars”.
 
